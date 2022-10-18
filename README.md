@@ -1,3 +1,6 @@
+#GCD/NWD
+
+
 num1 = int(input("Wpisz pierwsza liczbe: \n"))
 num2 = int(input("Wpisz druga liczbe: \n"))
 
